@@ -24,7 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		4520F9A3201B2D9200A5E84F /* ContainerTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ContainerTest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4520F9A3201B2D9200A5E84F /* SwinjectContainerAnalyzer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwinjectContainerAnalyzer; sourceTree = BUILT_PRODUCTS_DIR; };
 		4520F9A6201B2D9200A5E84F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4520F9AD201B2E5400A5E84F /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -43,7 +43,7 @@
 		4520F99A201B2D9200A5E84F = {
 			isa = PBXGroup;
 			children = (
-				4520F9A5201B2D9200A5E84F /* ContainerTest */,
+				4520F9A5201B2D9200A5E84F /* SwinjectContainerAnalyzer */,
 				4520F9A4201B2D9200A5E84F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,26 +51,26 @@
 		4520F9A4201B2D9200A5E84F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4520F9A3201B2D9200A5E84F /* ContainerTest */,
+				4520F9A3201B2D9200A5E84F /* SwinjectContainerAnalyzer */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4520F9A5201B2D9200A5E84F /* ContainerTest */ = {
+		4520F9A5201B2D9200A5E84F /* SwinjectContainerAnalyzer */ = {
 			isa = PBXGroup;
 			children = (
 				4520F9A6201B2D9200A5E84F /* main.swift */,
 				4520F9AD201B2E5400A5E84F /* Helpers.swift */,
 			);
-			path = ContainerTest;
+			path = SwinjectContainerAnalyzer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4520F9A2201B2D9200A5E84F /* ContainerTest */ = {
+		4520F9A2201B2D9200A5E84F /* SwinjectContainerAnalyzer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4520F9AA201B2D9200A5E84F /* Build configuration list for PBXNativeTarget "ContainerTest" */;
+			buildConfigurationList = 4520F9AA201B2D9200A5E84F /* Build configuration list for PBXNativeTarget "SwinjectContainerAnalyzer" */;
 			buildPhases = (
 				4520F99F201B2D9200A5E84F /* Sources */,
 				4520F9A0201B2D9200A5E84F /* Frameworks */,
@@ -80,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = ContainerTest;
+			name = SwinjectContainerAnalyzer;
 			productName = ContainerTest;
-			productReference = 4520F9A3201B2D9200A5E84F /* ContainerTest */;
+			productReference = 4520F9A3201B2D9200A5E84F /* SwinjectContainerAnalyzer */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4520F99E201B2D9200A5E84F /* Build configuration list for PBXProject "ContainerTest" */;
+			buildConfigurationList = 4520F99E201B2D9200A5E84F /* Build configuration list for PBXProject "SwinjectContainerAnalyzer" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4520F9A2201B2D9200A5E84F /* ContainerTest */,
+				4520F9A2201B2D9200A5E84F /* SwinjectContainerAnalyzer */,
 			);
 		};
 /* End PBXProject section */
@@ -258,7 +258,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4520F99E201B2D9200A5E84F /* Build configuration list for PBXProject "ContainerTest" */ = {
+		4520F99E201B2D9200A5E84F /* Build configuration list for PBXProject "SwinjectContainerAnalyzer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4520F9A8201B2D9200A5E84F /* Debug */,
@@ -267,7 +267,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4520F9AA201B2D9200A5E84F /* Build configuration list for PBXNativeTarget "ContainerTest" */ = {
+		4520F9AA201B2D9200A5E84F /* Build configuration list for PBXNativeTarget "SwinjectContainerAnalyzer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4520F9AB201B2D9200A5E84F /* Debug */,

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4520F9A2201B2D9200A5E84F"
-               BuildableName = "ContainerTest"
-               BlueprintName = "ContainerTest"
-               ReferencedContainer = "container:ContainerTest.xcodeproj">
+               BuildableName = "SwinjectContainerAnalyzer"
+               BlueprintName = "SwinjectContainerAnalyzer"
+               ReferencedContainer = "container:SwinjectContainerAnalyzer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,9 +34,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4520F9A2201B2D9200A5E84F"
-            BuildableName = "ContainerTest"
-            BlueprintName = "ContainerTest"
-            ReferencedContainer = "container:ContainerTest.xcodeproj">
+            BuildableName = "SwinjectContainerAnalyzer"
+            BlueprintName = "SwinjectContainerAnalyzer"
+            ReferencedContainer = "container:SwinjectContainerAnalyzer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,9 +58,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4520F9A2201B2D9200A5E84F"
-            BuildableName = "ContainerTest"
-            BlueprintName = "ContainerTest"
-            ReferencedContainer = "container:ContainerTest.xcodeproj">
+            BuildableName = "SwinjectContainerAnalyzer"
+            BlueprintName = "SwinjectContainerAnalyzer"
+            ReferencedContainer = "container:SwinjectContainerAnalyzer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4520F9A2201B2D9200A5E84F"
-            BuildableName = "ContainerTest"
-            BlueprintName = "ContainerTest"
-            ReferencedContainer = "container:ContainerTest.xcodeproj">
+            BuildableName = "SwinjectContainerAnalyzer"
+            BlueprintName = "SwinjectContainerAnalyzer"
+            ReferencedContainer = "container:SwinjectContainerAnalyzer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
