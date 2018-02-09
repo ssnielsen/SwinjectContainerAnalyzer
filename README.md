@@ -18,5 +18,6 @@ To me it makes the most sense to have it as a custom build phase in Xcode.
 
 ## Installation
 1. Download latest release
-2. Add build phase in Xcode
-3. Build your code
+2. Put in desired location 
+3. Add build phase in Xcode (make sure that SwinjectContainerAnalyzer is executable)
+4. Build your code
