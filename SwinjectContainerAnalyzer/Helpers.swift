@@ -76,11 +76,10 @@ func matches(in files: [String]) -> [TypeMatch] {
                     inComment = true
                 }
 
-                if line.hasSuffix("*/") {
-                    inComment = false
-                }
-
                 if inComment {
+                    if line.hasSuffix("*/") {
+                        inComment = false
+                    }
                     return []
                 }
 
